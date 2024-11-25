@@ -87,42 +87,45 @@ As a passionate and dedicated **BSc (Hons) Software Engineering** undergraduate 
 
 Here are the tools and technologies I use, represented with beautiful images:
 
+### **Frontend Development**
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
-
-  <!-- Frameworks & Libraries -->
   <img src="https://img.icons8.com/fluency/48/000000/react.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png" alt="Laravel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+</p>
 
-  <!-- Databases -->
+### **Backend Development**
+<p align="center">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png" alt="Laravel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
+</p>
+
+### **Databases**
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/windows/48/000000/neo4j.png" alt="Neo4j" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/neo4j.png" alt="Neo4j" width="40" height="40"/>
+</p>
 
-  <!-- Tools -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" width="40" height="40"/>
+### **UI/UX Design**
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/arduino.png" alt="Arduino" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="REST API" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/g-code.png" alt="G-Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/vscode.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/adobe-xd.png" alt="Adobe XD" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
+</p>
 
-  <!-- Additional Tools -->
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+### **Other Tools**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/dart.png" alt="Dart" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
 </p>
 
 ---
