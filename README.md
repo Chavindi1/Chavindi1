@@ -128,6 +128,7 @@ Here are the tools and technologies I use, represented with beautiful images:
   <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
 </p>
 
+
 ---
 
 ## 🌟 Core Skills  
