@@ -1,12 +1,26 @@
 # 👩‍💻 Chavindi Wijekoon  
 **Software Engineering Undergraduate | UI/UX Designer & Frontend Developer**  
- 
-📧 [chavidiwijekoon@gmail.com](mailto:chavidiwijekoon@gmail.com)  
+📍Kandy
+📧 [chavidiwijekoon@gmail.com](mailto:chavidiwijekoon@gmail.com) 
 
 ---
 
 ## 🚀 About Me  
 As a passionate and dedicated **BSc (Hons) Software Engineering** undergraduate at **SLTC Research University**, I am eager to contribute to innovative projects in **UI/UX design** and **frontend development**. My goal is to enhance user experiences, apply cutting-edge technologies, and collaborate with dynamic teams to deliver impactful solutions.
+
+---
+
+## 💼 Work Experience  
+
+### 🏢 **Real-World Warehouse Inventory Management System**  
+**Skills:** Figma, UX/UI Design, Prototyping, Inventory Workflows  
+- Designed a system for Silicon Radon Network Pvt. Ltd. to streamline operations across Head Office, Warehouse, Sites, and Buyers.  
+- Delivered a user-friendly prototype to enhance operational efficiency and improve inventory tracking.  
+
+### 🌐 **Frontend Development & Deployment**  
+**Skills:** React, Tailwind CSS, Vite, Vercel  
+- Built and deployed a responsive web app frontend with scalable and user-friendly design.  
+🔗 [Live Project](https://frontend-delta-bice-64.vercel.app/)  
 
 ---
 
@@ -139,7 +153,7 @@ Here are the tools and technologies I use, represented with beautiful images:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavindi1&layout=compact&theme=radical)  
 
 ✨ *Let's collaborate to turn ideas into reality!*
-
+                                                                              |
 
 
 
