@@ -129,6 +129,10 @@ Here are the tools and technologies I use, represented with beautiful images:
 </p>
 
 
+
+
+
+
 ---
 
 ## 🌟 Core Skills  
