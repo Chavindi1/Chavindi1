@@ -87,29 +87,43 @@ As a passionate and dedicated **BSc (Hons) Software Engineering** undergraduate 
 
 Here are the tools and technologies I use, represented with beautiful images:
 
-### **Frontend Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
 
-### **Backend Development**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.icons8.com/fluency/48/000000/react.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png" alt="Laravel" width="40" height="40"/>
 
-### **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/windows/48/000000/neo4j.png" alt="Neo4j" width="40" height="40"/>
 
-### **UI/UX Design**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+  <!-- Tools -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/arduino.png" alt="Arduino" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="REST API" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/g-code.png" alt="G-Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/vscode.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
 
-### **Other Tools**  
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+  <!-- Additional Tools -->
+  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+</p>
 
 ---
 
