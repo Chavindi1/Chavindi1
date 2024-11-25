@@ -1,7 +1,7 @@
 # 👩‍💻 Chavindi Wijekoon  
 **Software Engineering Undergraduate | UI/UX Designer & Frontend Developer**  
-📍Kandy
-📧 [chavidiwijekoon@gmail.com](mailto:chavidiwijekoon@gmail.com) 
+📍Kandy  
+📧 [chavidiwijekoon@gmail.com](mailto:chavidiwijekoon@gmail.com)   
 
 ---
 
@@ -141,9 +141,9 @@ Here are the tools and technologies I use, represented with beautiful images:
 ## 🌐 Connect With Me  
 
 | Platform      | Link                                                                                      |
-|---------------|-------------------------------------------------------------------------------------------|
-| ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)       | [Chavindi1](https://github.com/Chavindi1)                                  |
-| ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white) | [Chavindi Wijekoon](https://www.linkedin.com/in/chavindi-wijekoon-085498230/) |
+|---------------|-------------------------------------------------------------------------------------------|  
+| ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)       | [Chavindi1](https://github.com/Chavindi1)                                  |  
+| ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white) | [Chavindi Wijekoon](https://www.linkedin.com/in/chavindi-wijekoon-085498230/) |  
 | ![Behance](https://img.shields.io/badge/-Behance-0057FF?logo=behance&logoColor=white)   | [Chavindi Wijekoon](https://www.behance.net/chavindwijekoo)                  |
 
 ---
@@ -153,7 +153,5 @@ Here are the tools and technologies I use, represented with beautiful images:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chavindi1&layout=compact&theme=radical)  
 
 ✨ *Let's collaborate to turn ideas into reality!*
-                                                                              |
-
 
 
